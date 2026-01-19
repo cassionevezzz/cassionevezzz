@@ -7,7 +7,7 @@
 <div align="center">
 <h2>⚒️ Tech Stack</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,ruby,rails,cs,dotnet,bash,postgres,docker,linux3" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,ruby,rails,python,bash,postgres,docker,linux3" alt="My Skills" />
 </a>
 </div>
 
