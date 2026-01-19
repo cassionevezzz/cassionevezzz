@@ -1,6 +1,6 @@
 <h1 align="center"> Hey, I'm Cassio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h1>
 
-<div align="right">
+<div align="center">
   <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" width="150">
 </div>
 
