@@ -4,10 +4,14 @@
   <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" width="150">
 </div>
 
+<div align="center">
+<h2>⚒️ Tech Stack</h2>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,ruby,rails,cs,dotnet,bash,postgres,docker,linux3" alt="My Skills" />
+</a>
+</div>
 
-### ⚒️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,ruby,rails,cs,dotnet,bash,postgres,docker,linux3)](https://skillicons.dev)
-
+<br>
 <br>
 
 <p align="center">
